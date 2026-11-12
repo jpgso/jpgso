@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 280" role="img" aria-label="João Pedro Garcia, analista de dados em Uberlândia, MG">
+  <rect width="1200" height="280" rx="16" fill="#f1f4f9"/>
+  <g fill="#dde4ef">
+    <rect x="820" y="196" width="26" height="44"/>
+    <rect x="862" y="182" width="26" height="58"/>
+    <rect x="904" y="190" width="26" height="50"/>
+    <rect x="946" y="158" width="26" height="82"/>
+    <rect x="988" y="166" width="26" height="74"/>
+    <rect x="1030" y="130" width="26" height="110"/>
+    <rect x="1072" y="112" width="26" height="128"/>
+    <rect x="1114" y="84" width="26" height="156"/>
+  </g>
+  <rect x="806" y="240" width="348" height="3" fill="#0f172a"/>
+  <polyline points="833,176 875,160 917,170 959,134 1001,144 1043,104 1085,88 1127,56" fill="none" stroke="#1d4ed8" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+  <g fill="#f1f4f9" stroke="#1d4ed8" stroke-width="4">
+    <circle cx="833" cy="176" r="7"/>
+    <circle cx="875" cy="160" r="7"/>
+    <circle cx="917" cy="170" r="7"/>
+    <circle cx="959" cy="134" r="7"/>
+    <circle cx="1001" cy="144" r="7"/>
+    <circle cx="1043" cy="104" r="7"/>
+    <circle cx="1085" cy="88" r="7"/>
+  </g>
+  <circle cx="1127" cy="56" r="10" fill="#1d4ed8"/>
+  <g font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+    <text x="56" y="96" font-size="19" font-weight="700" letter-spacing="3" fill="#475569">ANALISTA DE DADOS</text>
+    <text x="54" y="170" font-size="72" font-weight="800" letter-spacing="-1.5" fill="#0f172a">João Pedro Garcia</text>
+    <text x="56" y="218" font-size="23" font-weight="500" fill="#475569">Uberlândia, Minas Gerais</text>
+  </g>
+</svg>
